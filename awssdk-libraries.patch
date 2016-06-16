@@ -5,7 +5,7 @@ index b46bcac..81490a7 100644
 @@ -2,9 +2,7 @@
  api = 2
  core = 7.x
-  
+ 
 -projects[awssdk][type] = library
 -projects[awssdk][download][type] = git
 -projects[awssdk][download][url] = https://github.com/amazonwebservices/aws-sdk-for-php.git
