@@ -12,8 +12,7 @@ index 25d51ea..3efcd60 100644
 -projects[awssdk][download][tag] = 1.5.10
 -
 -projects[libraries] = 2
-+libraries[awssdk-lib][type] = library
-+libraries[awssdk-lib][download][type] = git
-+libraries[awssdk-lib][download][url] = https://github.com/amazonwebservices/aws-sdk-for-php.git
-+libraries[awssdk-lib][download][tag] = 1.5.10
-+libraries[awssdk-lib][download][directory_name] = awssdk
++libraries[awssdk][type] = library
++libraries[awssdk][download][type] = git
++libraries[awssdk][download][url] = https://github.com/amazonwebservices/aws-sdk-for-php.git
++libraries[awssdk][download][tag] = 1.5.10
